@@ -1,0 +1,94 @@
+# Site settings
+baseurl = "https://dandua.com"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+author = "Danish Dua"
+title = "Danish Dua"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "docs"
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-121320009-1"
+enableRobotsTXT = true
+
+# Copyright
+copyright = "&copy; 2019 Danish Dua"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Danish Dua"
+  description = "Danish Dua's personal website"
+  keywords = "Danish,Dua,Danish Dua,Software,Developer,blog,Dan Dua,Programmer"
+  twitterHandle = "dandua98"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/background.jpg"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/background.mp4"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "Connect"
+
+      [[params.links.list1.link]]
+        text = "Email"
+        url = "mailto:danish@dandua.com"
+
+      [[params.links.list1.link]]
+        text = "LinkedIn"
+        url = "https://linkedin.com/in/dandua98"
+
+      [[params.links.list1.link]]
+        text = "Resume"
+        url = "/resume.pdf"
+
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Social"
+
+      [[params.links.list2.link]]
+        text = "Twitter"
+        url = "https://twitter.com/danish_dua"
+
+      [[params.links.list2.link]]
+        text = "Medium"
+        url = "https://medium.com/@danishdua1998"
+
+      [[params.links.list2.link]]
+        text = "Instagram"
+        url = "https://instagram.com/dandua98"
+
+  # Links List #3
+  [[params.links]]
+    [params.links.list3]
+      heading = "Software"
+
+      [[params.links.list3.link]]
+        text = "Github"
+        url = "https://github.com/dandua98"
+
+      [[params.links.list3.link]]
+        text = "Devpost"
+        url = "https://devpost.com/dandua98"
