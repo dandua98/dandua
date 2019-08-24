@@ -3,15 +3,21 @@ title = "Danish Dua"
 tagline = "Software Engineer"
 +++
 
-I'm Danish, a software engineering student at the University of Alberta. Currently, I'm working
-as an intern at [Honey](https://www.joinhoney.com/) in Los Angeles, CA.
+I'm Danish, a software engineering student at the University of Alberta. I am a product-oriented
+developer with a passion for hacking productivity through software. I love being on Systems,
+Infrastructure and Services teams and have experience working on Dev Tools, Microservice
+Architectures, Scalable Backends and Dashboards.
 
-I've previously interned at [Microsoft](https://www.microsoft.com/) in Vancouver, BC where I worked on
-a developer productivity tool and [Green Brick Labs](https://www.greenbricklabs.com/) in Waterloo, ON
-where I worked on the Identity provider and API gateway for their core product.
+## Career Summary
 
-I am a product-oriented developer with a passion for hacking productivity through software. I also
-love working with large scale systems and would love to be a part of a services/infrastructure team.
+- Software Engineering Intern, [Honey](https://www.joinhoney.com/)  
+  Core Architecture  
+  May, 2019 - Aug, 2019
 
-I'm always looking for challenging opportunities and collaboration opportunities, would love to talk to
-you over [linkedin](https://linkedin.com/in/dandua98) or email at [danish@dandua.com](mailto:danish@dandua.com)
+- Software Engineering Intern, [Microsoft](https://www.microsoft.com/)  
+  Web Template Studio  
+  Jan, 2019 - Apr, 2019
+
+- Full Stack Developer Co-op, [Green Brick Labs](https://www.greenbricklabs.com/)  
+  API Gateway and Identity Provider  
+  May, 2018 - Apr, 2018
