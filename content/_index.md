@@ -10,11 +10,16 @@ Follow me on [Medium](https://medium.com/@dandua98) and [Twitter](https://twitte
 
 ## **Career Summary**
 
-- **Incoming Software Engineering Intern**, [Google](https://www.google.com/)\
-  _GCloud Tech Infra_\
+- **Incoming Software Engineering Intern**, [Snapchat](https://www.snap.com/)\
+  _Bitmoji_\
+  Oct, 2020 - Jan, 2021
+
+- **Software Engineering Intern**, [Google](https://www.google.com/)\
+  _Golang_\
   Jul, 2020 - Oct, 2020
 
-- **Incoming Software Engineering Intern**, [Facebook](https://www.facebook.com/)\
+- **Software Engineering Intern**, [Facebook](https://www.facebook.com/)\
+  _Core Health @ Dev Infra_\
   May, 2020 - Jul, 2020
 
 - **Software Engineering Intern**, [Honey](https://www.joinhoney.com/)\
