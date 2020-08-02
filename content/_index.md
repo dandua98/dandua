@@ -10,7 +10,7 @@ Follow me on [Medium](https://medium.com/@dandua98) and [Twitter](https://twitte
 
 ## **Career Summary**
 
-- **Incoming Software Engineering Intern**, [Snapchat](https://www.snap.com/)\
+- **Software Engineering Intern**, [Snapchat](https://www.snap.com/)\
   _Bitmoji_\
   Oct, 2020 - Jan, 2021
 
@@ -19,11 +19,11 @@ Follow me on [Medium](https://medium.com/@dandua98) and [Twitter](https://twitte
   Jul, 2020 - Oct, 2020
 
 - **Software Engineering Intern**, [Facebook](https://www.facebook.com/)\
-  _Core Health @ Dev Infra_\
+  _Core Health_\
   May, 2020 - Jul, 2020
 
 - **Software Engineering Intern**, [Honey](https://www.joinhoney.com/)\
-  _Core Services/Core Architecture_\
+  _Core Systems_\
   May, 2019 - Aug, 2019
 
 - **Software Engineering Intern**, [Microsoft](https://www.microsoft.com/)\
@@ -31,12 +31,11 @@ Follow me on [Medium](https://medium.com/@dandua98) and [Twitter](https://twitte
   Jan, 2019 - Apr, 2019
 
 - **Software Engineering Intern**, [Green Brick Labs](https://www.greenbricklabs.com/)\
-  _API Gateway and Identity Provider_\
+  _Infrastructure_\
   May, 2018 - Apr, 2018
 
 ## **Projects**
 
 - **Pending PR**\
-  A GitHub app to help manage issues in pull requests better using automated
-  labelling. Installed on 1000+ repositories. Available on [GitHub
-  Marketplace](https://github.com/marketplace/pendingpr).
+  A GitHub app to improve issue and pull request management using automated labelling. Installed on 1000+
+  repositories. Available on [GitHub Marketplace](https://github.com/marketplace/pendingpr).
