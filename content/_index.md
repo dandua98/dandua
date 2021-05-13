@@ -3,10 +3,8 @@ title = "Danish Dua"
 tagline = "Software Engineer"
 +++
 
-Fourth Year Computer Engineering student @ University of Alberta.\
-Experienced in Systems and Infrastructure Engineering. Interested in
-Scalability, Distributed Systems, Tech Infrastructure, and Data Engineering.\
-Follow me on [Medium](https://medium.com/@dandua98) and [Twitter](https://twitter.com/dandua98) for more!
+Computer Engineering Graduate from the University of Alberta.\
+Distributed Systems and Infrastructure Engineering.
 
 ## **Career Summary**
 

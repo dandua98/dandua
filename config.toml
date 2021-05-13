@@ -11,12 +11,10 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "docs"
 
-# Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-121320009-1"
 enableRobotsTXT = true
 
 # Copyright
-copyright = "&copy; 2019 Danish Dua"
+copyright = "&copy; 2021 Danish Dua"
 
 [params]
 
@@ -71,10 +69,6 @@ copyright = "&copy; 2019 Danish Dua"
         text = "Medium"
         url = "https://medium.com/@dandua98"
 
-      [[params.links.list2.link]]
-        text = "Instagram"
-        url = "https://instagram.com/dandua98"
-
   # Links List #3
   [[params.links]]
     [params.links.list3]
@@ -84,6 +78,3 @@ copyright = "&copy; 2019 Danish Dua"
         text = "Github"
         url = "https://github.com/dandua98"
 
-      [[params.links.list3.link]]
-        text = "Devpost"
-        url = "https://devpost.com/dandua98"
