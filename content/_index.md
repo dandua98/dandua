@@ -8,6 +8,10 @@ Distributed Systems and Infrastructure Engineering.
 
 ## **Career Summary**
 
+- **Software Engineer**, [Databricks](https://www.databricks.com/)\
+  _Observability_\
+  Jul, 2021 - Present
+
 - **Software Engineering Intern**, [Snapchat](https://www.snap.com/)\
   _Bitmoji_\
   Oct, 2020 - Jan, 2021
