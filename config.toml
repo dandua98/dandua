@@ -53,28 +53,9 @@ copyright = "&copy; 2021 Danish Dua"
         url = "https://linkedin.com/in/dandua98"
 
       [[params.links.list1.link]]
-        text = "Resume"
-        url = "/resume.pdf"
-
-  # Links List #2
-  [[params.links]]
-    [params.links.list2]
-      heading = "Social"
-
-      [[params.links.list2.link]]
-        text = "Twitter"
-        url = "https://twitter.com/dandua98"
-
-      [[params.links.list2.link]]
-        text = "Medium"
-        url = "https://medium.com/@dandua98"
-
-  # Links List #3
-  [[params.links]]
-    [params.links.list3]
-      heading = "Software"
-
-      [[params.links.list3.link]]
         text = "Github"
         url = "https://github.com/dandua98"
 
+      [[params.links.list1.link]]
+        text = "Resume"
+        url = "/resume.pdf"
