@@ -35,9 +35,3 @@ Distributed Systems and Infrastructure Engineering.
 - **Software Engineering Intern**, [Green Brick Labs](https://www.greenbricklabs.com/)\
   _Infrastructure_\
   May, 2018 - Apr, 2018
-
-## **Projects**
-
-- **Pending PR**\
-  A GitHub app to improve issue and pull request management using automated labelling. Installed on 1000+
-  repositories. Available on [GitHub Marketplace](https://github.com/marketplace/pendingpr).
