@@ -20,7 +20,7 @@ Distributed Systems and Infrastructure Engineering.
   _Golang_\
   Jul, 2020 - Oct, 2020
 
-- **Software Engineering Intern**, [Facebook](https://www.facebook.com/)\
+- **Software Engineering Intern**, [Meta](https://www.meta.com/)\
   _Core Health_\
   May, 2020 - Jul, 2020
 
@@ -32,6 +32,6 @@ Distributed Systems and Infrastructure Engineering.
   _Web Template Studio_\
   Jan, 2019 - Apr, 2019
 
-- **Software Engineering Intern**, [Green Brick Labs](https://www.greenbricklabs.com/)\
+- **Software Engineering Intern**, [Green Brick Labs](https://www.gbl.io/)\
   _Infrastructure_\
   May, 2018 - Apr, 2018
