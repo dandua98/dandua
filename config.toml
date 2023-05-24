@@ -14,7 +14,7 @@ publishdir = "docs"
 enableRobotsTXT = true
 
 # Copyright
-copyright = "&copy; 2021 Danish Dua"
+copyright = "&copy; 2023 Danish Dua"
 
 [params]
 
@@ -55,7 +55,3 @@ copyright = "&copy; 2021 Danish Dua"
       [[params.links.list1.link]]
         text = "Github"
         url = "https://github.com/dandua98"
-
-      [[params.links.list1.link]]
-        text = "Resume"
-        url = "/resume.pdf"

@@ -33,5 +33,5 @@ Distributed Systems and Infrastructure Engineering.
   Jan, 2019 - Apr, 2019
 
 - **Software Engineering Intern**, [Green Brick Labs](https://www.gbl.io/)\
-  _Infrastructure_\
+  _API Gateway_\
   May, 2018 - Apr, 2018
