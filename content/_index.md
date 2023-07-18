@@ -8,9 +8,12 @@ Distributed Systems and Infrastructure Engineering.
 
 ## **Career Summary**
 
+- **Founding Software Engineer**, [CodeComplete AI](https://www.codecomplete.ai/)\
+  Jul, 2023 - Present
+
 - **Software Engineer**, [Databricks](https://www.databricks.com/)\
   _Observability_\
-  Jul, 2021 - Present
+  Jul, 2021 - Jul, 2023
 
 - **Software Engineering Intern**, [Snapchat](https://www.snap.com/)\
   _Bitmoji_\

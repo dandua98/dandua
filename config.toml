@@ -21,8 +21,7 @@ copyright = "&copy; 2023 Danish Dua"
   # Metadata for search engines and social sharing
   author = "Danish Dua"
   description = "Danish Dua's Portfolio"
-  keywords = "Danish,Dua,Danish Dua,Software,Developer,blog,Dan Dua,Programmer"
-  twitterHandle = "dandua98"
+  keywords = "Danish,Dua,Danish Dua,Software,Developer,Software Engineer,blog,Programmer"
 
   # Favicon
   favicon = "favicon.ico"
@@ -53,5 +52,5 @@ copyright = "&copy; 2023 Danish Dua"
         url = "https://linkedin.com/in/dandua98"
 
       [[params.links.list1.link]]
-        text = "Github"
+        text = "GitHub"
         url = "https://github.com/dandua98"
